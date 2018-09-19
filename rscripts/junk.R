@@ -1,1 +1,1 @@
-hist(rnorm(1000), col = "yellow")
+hist(rnorm(1000), col = "red")
